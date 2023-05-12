@@ -3,25 +3,6 @@ layout: page
 title: "About me"
 ---
 
-<head>
-  <style>
-    img {
-      width: 150px;
-      height: auto;
-      border-radius: 50%;
-      display: block;
-      margin: auto;
-    }
-  </style>
-</head>
-
-body {
-  background-image: url("/Images/background_53876-32171.avif");
-  background-size: cover;
-}
-
-
-
 <img src="/Images/IMG_0967 3.png">
 
 <p style="text-align: justify; text-justify: inter-word; padding: 10px;">Hi! My name's Misha! I'm a rising senior at the University of Wisconsin-Madison. I'm currently majoring in economics and psychology, with a passion for understanding how people think and behave in the world around them.</p>

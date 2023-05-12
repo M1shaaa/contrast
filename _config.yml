@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "/Resume.docx", title: "CV"}
+  - {file: "/Resume.docx", title: "CV", icon: "home"}
   - {title: "My Lab!", url: "https://projects.iq.harvard.edu/ccdlab/home"}
   - {title: "Blog", url: "https://globalgatewaysdcmisha.wordpress.com/"}
 

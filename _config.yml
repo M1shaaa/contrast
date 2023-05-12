@@ -16,9 +16,9 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "/Resume.docx", title: "CV", icon: "home"}
+  - {file: "Resume.docx", title: "CV", icon: "home"}
   - {title: "My Lab!", url: "https://projects.iq.harvard.edu/ccdlab/home"}
-  - {title: "About me", file: "/aboutme.md"}
+  - {title: "About me", file: "aboutme.md"}
   - {title: "Blog", url: "https://globalgatewaysdcmisha.wordpress.com/"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons

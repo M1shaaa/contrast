@@ -15,10 +15,19 @@ title: "About me"
   </style>
 </head>
 
-I'm a rising senior and Pell pathways scholar at the University of Wisconsin-Madison where I'm majoring In economics and psychology. 
-I'm also a current research assistant at the Bonawaitz Computational Cognitive Development Lab at the Harvard Graduate School for Education.
-
 <img src="/Images/IMG_0967 3.png">
+
+Hi! My name is Misha! I'm a rising senior at the University of Wisconsin-Madison. I'm currently majoring in economics and psychology, with a passion for understanding how people think and behave in the world around them.
+
+During my time at UW-Madison, I've been fortunate enough to work as a research assistant at the Bonawitz Computational Cognitive Development Lab at the Harvard Graduate School of Education. It's been an incredible opportunity to be part of such a dynamic team and contribute to research that has the potential to change the way we think about cognitive development.
+
+This summer, I'm excited to be interning at the Yale Social Cognitive Development Lab, where I'll be continuing my work on child development and cognitive psychology. I can't wait to learn more about the field and gain new insights into the fascinating world of human cognition.
+
+Aside from research, I also love to code and work on fun projects in my spare time. Whether it's building websites or falling down various (and copious amounts of) rabbit holes, I find it thrilling to challenge myself--especially in seeing what I can bring to the table. Recently, I worked on a statistics project using Spyder to analyze data and discovered some interesting insights about the gender wage gap for professors at UW-Madison. I even had the chance to write a paper on it, which you can find linked on my materials page (along with lots of other open-science resources)!
+
+If, by chance, I'm not at the library, you'll either find me at my sewing machine or training; most of my closet are clothes that I've made myself (for better or worse) and I'm also training for the Madison Ironman in September 2023!
+
+Overall, I'm an outgoing and curious person who loves to learn and explore new things. feel free to hit me up (email) for a coffee or a chat about anything from research to coding, or even just the latest fashion trends. I LOVE connecting with new people!!
 
 
 

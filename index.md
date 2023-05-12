@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Blog"
+title: "About me"
 ---
 
 I'm a rising senior and Pell pathways scholar at the University of Wisconsin-Madison where I'm majoring In economics and psychology. 

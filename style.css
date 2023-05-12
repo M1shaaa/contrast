@@ -1,16 +1,15 @@
 <style>
-img {
-    width: 150px;
-    height: auto;
-    border-radius: 50%;
-    display: block;
-    margin: auto;
-}
-
-body {
-    background-image: url("Images/background_53876-32171.avif");
-    background-size: cover;
-}
-
+    img.profile-pic {
+        width: 150px;
+        height: auto;
+        border-radius: 50%;
+        display: block;
+        margin: auto;
+    }
+    body {
+        background-image: url("Images/background_53876-32171.avif");
+        background-size: cover;
+    }
 </style>
+
 

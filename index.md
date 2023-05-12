@@ -1,8 +1,9 @@
 ---
 layout: page
 title: "About me"
-<link rel="stylesheet" type="text/css" href="style.css">
+stylesheet: "style.css"
 ---
+
 
 <div class="container">
   <img class="profile-pic" src="Images/IMG_0967 3.png" alt="Profile picture">

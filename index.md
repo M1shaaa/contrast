@@ -4,7 +4,15 @@ title: "About me"
 ---
 
 <head>
-  <link rel="stylesheet" href="/style.css">
+  <style>
+    img {
+      width: 150px;
+      height: auto;
+      border-radius: 50%;
+      display: block;
+      margin: auto;
+    }
+  </style>
 </head>
 
 I'm a rising senior and Pell pathways scholar at the University of Wisconsin-Madison where I'm majoring In economics and psychology. 

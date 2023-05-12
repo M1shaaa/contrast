@@ -18,8 +18,8 @@ title: "About me"
 body {
   background-image: url("/Images/background_53876-32171.avif");
   background-size: cover;
-  background-repeat: no-repeat;
 }
+
 
 
 <img src="/Images/IMG_0967 3.png">

@@ -7,8 +7,7 @@
         margin: auto;
     }
     body {
-        background-image: url("Images/background_53876-32171.avif");
-        background-size: cover;
+        background-color: #fff;
     }
     .image-container {
         margin-top: 50px;
@@ -23,9 +22,8 @@
 </style>
 
 <div class="image-container">
-    <img src="Images/background_53876-32171.avif" alt="Your Image">
+    <img src="Images/background_53876-32171.avif" alt="Background Image">
 </div>
 
 <img class="profile-pic" src="Images/IMG_9677 2.png" alt="Your Profile Picture">
-
 

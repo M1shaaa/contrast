@@ -15,6 +15,13 @@ title: "About me"
   </style>
 </head>
 
+body {
+  background-image: url("/Images/background_53876-32171.avif");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+
 <img src="/Images/IMG_0967 3.png">
 
 Hi! My name is Misha! I'm a rising senior at the University of Wisconsin-Madison. I'm currently majoring in economics and psychology, with a passion for understanding how people think and behave in the world around them.

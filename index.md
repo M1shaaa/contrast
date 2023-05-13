@@ -5,7 +5,7 @@ stylesheet: "style.css"
 ---
 
 <div class="container">
-  <img class="image" src="Images/IMG_9677 2.png">
+  <img class="image" src="Images/IMG_9677 2.jpg">
   <div class="text">
     
     <h1>About Me</h1>

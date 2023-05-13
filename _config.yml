@@ -16,7 +16,7 @@ minimal: true             # use a light header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - { title: "About me", file: "aboutme.md", icon: home }
+  - { title: "About me", file: "aboutme.md"}
   - { title: "My CV", url: "https://drive.google.com/file/d/1Zl3EHUq3l2McjMRR9NybtR4Fqfrq2BZM/view?usp=sharing"}
   - { title: "My Lab!", url: "https://projects.iq.harvard.edu/ccdlab/home" }
   - { title: "Open Science!", file: "Open Science!.md" }

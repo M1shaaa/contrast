@@ -1,29 +1,8 @@
-<style>
-    img.profile-pic {
-        width: 150px;
-        height: auto;
-        border-radius: 50%;
-        display: block;
-        margin: auto;
-    }
-    body {
-        background-color: #fff;
-    }
-    .image-container {
-        margin-top: 50px;
-        text-align: center;
-    }
-    .image-container img {
-        width: 300px;
-        height: auto;
-        border-radius: 10px;
-        box-shadow: 5px 5px 10px #888888;
-    }
-</style>
+.image {
+  background-image: url("Images/IMG_9677 2.png");
+  background-size: cover;
+  width: 20%;
+  height: 80px;
+}
 
-<div class="image-container">
-    <img src="Images/background_53876-32171.avif" alt="Background Image">
-</div>
-
-<img class="profile-pic" src="Images/IMG_9677 2.png" alt="Your Profile Picture">
 

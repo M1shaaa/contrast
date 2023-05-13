@@ -7,7 +7,6 @@ stylesheet: "style.css"
 
 <img src="/Images/IMG_9677 2.png" alt="My Profile Picture" />
 
-  <h1>About Me</h1>
   <p>My name is Misha and I'm a rising senior at the University of Wisconsin-Madison. I'm majoring in economics and psychology, with a passion for understanding how people think and behave in the world around them.</p>
 </div>
 

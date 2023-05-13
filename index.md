@@ -4,8 +4,9 @@ title: "About me"
 stylesheet: "style.css"
 ---
     
-<p>Hi hi!!
-My name is Misha and I'm a rising senior at the University of Wisconsin-Madison. I'm majoring in economics and psychology, with a passion for understanding how people think and behave in the world around them.</p>
+<p>Hi hi!!</p>
+    
+<p>My name is Misha and I'm a rising senior at the University of Wisconsin-Madison. I'm majoring in economics and psychology, with a passion for understanding how people think and behave in the world around them.</p>
     
 <p>During my time at UW-Madison, I've been fortunate enough to work as a research assistant at the Bonawitz Computational Cognitive Development Lab at the Harvard Graduate School of Education. It's been an incredible opportunity to be part of such a dynamic team and contribute to research that has the potential to change the way we think about cognitive development.</p>
 

@@ -16,7 +16,5 @@ My name is Misha and I'm a rising senior at the University of Wisconsin-Madison.
 <p>If, by chance, I'm not at the library, you'll either find me at my sewing machine or training; most of my closet are clothes that I've made myself (for better or worse) and I'm also training for the Madison Ironman in September 2023!</p>
 
 <p>Overall, I'm an outgoing and curious person who loves to learn and explore new things. feel free to hit me up (email) for a coffee or a chat about anything from research to coding, or even just the latest fashion trends. I LOVE connecting with new people!!</p>
-  </div>
-</div>
 
 

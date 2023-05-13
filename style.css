@@ -1,8 +1,18 @@
-.image {
-  background-image: url("Images/IMG_9677 2.png");
-  background-size: cover;
-  width: 20%;
-  height: 80px;
+.container {
+  width: 100%;
+  height: auto;
+  overflow: hidden;
 }
 
+.image {
+  float: right;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  width: 25%;
+  height: auto;
+}
+
+.text {
+  overflow: hidden;
+}
 

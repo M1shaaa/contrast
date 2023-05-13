@@ -17,7 +17,7 @@ minimal: true             # use a light header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - { title: "About me", file: "aboutme.md", icon: home }
-  - { title: "My CV", file: "Files/Resume.docx"}
+  - { title: "My CV", file: "Files/Resume.pdf"}
   - { title: "My Lab!", url: "https://projects.iq.harvard.edu/ccdlab/home" }
   - { title: "Travel Blog", url: "https://globalgatewaysdcmisha.wordpress.com/" }
 

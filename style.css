@@ -1,8 +1,9 @@
 .image {
   background-image: url("Images/IMG_9677 2.png");
-  background-size: cover;
-  width: 20%;
-  height: 80px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
 }
-
 

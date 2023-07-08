@@ -16,10 +16,10 @@ minimal: true             # use a light header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - { title: "My CV", url: "https://drive.google.com/file/d/1Zl3EHUq3l2McjMRR9NybtR4Fqfrq2BZM/view?usp=sharing"}
-  - { title: "My Lab!", url: "https://projects.iq.harvard.edu/ccdlab/home" }
+  - { title: "My CV", url: "https://drive.google.com/file/d/1Zl3EHUq3l2McjMRR9NybtR4Fqfrq2BZM/view?usp=sharing", target: "_blank"}
+  - { title: "My Lab!", url: "https://projects.iq.harvard.edu/ccdlab/home", target: "_blank" }
   - { title: "Open Science!", file: "Open Science!.md" }
-  - { title: "Travel Blog", url: "https://globalgatewaysdcmisha.wordpress.com/" }
+  - { title: "Travel Blog", url: "https://globalgatewaysdcmisha.wordpress.com/", target: "_blank" }
 
 
 
@@ -27,6 +27,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:meokeeffe@wisc.edu"}
   - {title: Github, icon: github, url: "https://github.com/m1shaaa"}
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/misha-michael-o-keeffe-099348262"}
+
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/

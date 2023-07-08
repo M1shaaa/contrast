@@ -29,8 +29,13 @@
 
 <header>
   <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
-  {% include menu.html menu=pages %}
+  <ul>
+    {% for item in pages %}
+      <li><a href="{{ item.url | relative_url }}" {% if item.target %}target="{{ item.target }}"{% else %}target="_blank"{% endif %}>{{ item.title }}</a></li>
+    {% endfor %}
+  </ul>
 </header>
+
 
 {{ content }}
 

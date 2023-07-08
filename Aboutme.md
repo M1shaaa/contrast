@@ -8,3 +8,6 @@ title: "About me"
 {% else %}
   {% include archive.html title="About me" %}
 {% endif %}
+
+![Coffee Picture](Images/IMG_2237.png)
+

@@ -28,14 +28,16 @@
 {% endif %}
 
 <header>
-  <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
-  <nav>
-    <ul class="navigation-links">
-      {% for item in pages %}
-        <li><a href="{{ item.url | relative_url }}" {% if item.target %}target="{{ item.target }}"{% else %}target="_blank"{% endif %}>{{ item.title }}</a></li>
-      {% endfor %}
-    </ul>
-  </nav>
+  <div class="header-wrapper">
+    <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
+    <nav>
+      <ul class="navigation-links">
+        {% for item in pages %}
+          <li><a href="{{ item.url | relative_url }}" {% if item.target %}target="{{ item.target }}"{% else %}target="_blank"{% endif %}>{{ item.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </nav>
+  </div>
 </header>
 
 

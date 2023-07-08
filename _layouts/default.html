@@ -45,13 +45,16 @@
 {{ content }}
 
 <footer>
-  <div>{{ site.description | default: site.title }}</div>
-  <ul class="external-links">
-    {% for item in site.external %}
-      <li><a href="{{ item.url | relative_url }}" target="_blank">{{ item.title }}</a></li>
-    {% endfor %}
-  </ul>
+  <div class="footer-wrapper">
+    <div>{{ site.description | default: site.title }}</div>
+    <ul class="external-links">
+      {% for item in site.external %}
+        <li><a href="{{ item.url | relative_url }}" target="_blank">{{ item.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
 </footer>
+
 
 
 

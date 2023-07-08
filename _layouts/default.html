@@ -30,25 +30,16 @@
 <header>
   <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
   {% include menu.html menu=pages %}
-  {% include menu.html menu=site.external %}
 </header>
 
 {{ content }}
 
+{% if site.external %}
 <footer>
-  <div class="footer-wrapper">
-    <div>{{ site.description | default: site.title }}</div>
-{% include menu.html menu=site.external %}
-    <ul class="external-links">
-      {% for item in site.external %}
-        <li><a href="{{ item.url | relative_url }}" target="_blank">{{ item.title }}</a></li>
-      {% endfor %}
-    </ul>
-  </div>
+  <div>{{ site.description | default: site.title }}</div>
+  {% include menu.html menu=site.external %}
 </footer>
-
-
-
+{% endif %}
 
 
 </html>

@@ -7,3 +7,17 @@
   margin: 0 auto;
 }
 
+.navigation-links {
+  display: flex;
+  list-style: none;
+  justify-content: flex-start;
+  padding: 0;
+}
+
+.navigation-links li {
+  margin-right: 10px;
+}
+
+.navigation-links li:last-child {
+  margin-right: 0;
+}

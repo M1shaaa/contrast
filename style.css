@@ -7,26 +7,3 @@
   margin: 0 auto;
 }
 
-.header-wrapper {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.navigation-links,
-.external-links {
-  display: flex;
-  align-items: center;
-}
-
-.navigation-links li,
-.external-links li {
-  margin-right: 10px;
-  list-style: none;
-}
-
-.navigation-links li:last-child,
-.external-links li:last-child {
-  margin-right: 0;
-}
-

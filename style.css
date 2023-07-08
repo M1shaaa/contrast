@@ -7,24 +7,22 @@
   margin: 0 auto;
 }
 
-.header-wrapper,
-.footer-wrapper {
+.header-wrapper {
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
 }
 
 .navigation-links,
 .external-links {
-  list-style: none;
-  padding: 0;
-  margin: 0;
   display: flex;
+  align-items: center;
 }
 
 .navigation-links li,
 .external-links li {
   margin-right: 10px;
+  list-style: none;
 }
 
 .navigation-links li:last-child,

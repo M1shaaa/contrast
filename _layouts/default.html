@@ -37,6 +37,7 @@
 <footer>
   <div class="footer-wrapper">
     <div>{{ site.description | default: site.title }}</div>
+{% include menu.html menu=site.external %}
     <ul class="external-links">
       {% for item in site.external %}
         <li><a href="{{ item.url | relative_url }}" target="_blank">{{ item.title }}</a></li>

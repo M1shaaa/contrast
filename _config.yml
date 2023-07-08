@@ -24,12 +24,10 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-- icon: envelope
-  url: "mailto:meokeeffe@wisc.edu"
-- icon: github
-  url: "https://github.com/m1shaaa"
-- icon: linkedin
-  url: "https://www.linkedin.com/in/misha-michael-o-keeffe-099348262"
+- {icon: Email, icon: envelope, url: "mailto:meokeeffe@wisc.edu"}
+- {icon: GitHub, icon github, url: "https://github.com/m1shaaa"}
+- {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/misha-michael-o-keeffe-099348262"}
+
 
 
 comments:

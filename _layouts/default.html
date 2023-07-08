@@ -36,16 +36,17 @@
 {{ content }}
 
 {% if site.navigation %}
-  <div>{{ site.description | default: site.title }} target="_blank" </div>
-  {% include menu.html menu=site.external %}
+  <div>{{ site.description | default: site.title }}</div>
+  {% include menu.html menu=site.external target="_blank" %}
 {% endif %}
 
 {% if site.external %}
 <footer>
-  <div>{{ site.description | default: site.title }} target="_blank" </div>
-  {% include menu.html menu=site.external %}
+  <div>{{ site.description | default: site.title }}</div>
+  {% include menu.html menu=site.external target="_blank" %}
 </footer>
 {% endif %}
+
 
 
 </html>

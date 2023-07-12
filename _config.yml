@@ -18,6 +18,7 @@ minimal: true             # use a light header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - { title: "My CV", url: "https://drive.google.com/file/d/1Zl3EHUq3l2McjMRR9NybtR4Fqfrq2BZM/view?usp=sharing", target: "_blank"}
   - { title: "My Lab!", url: "https://projects.iq.harvard.edu/ccdlab/home", target: "_blank" }
+  - {title: "My Publications", file: "Publications.md" }
   - { title: "Open Science!", file: "Open Science!.md" }
   - { title: "Travel Blog", url: "https://globalgatewaysdcmisha.wordpress.com/", target: "_blank" }
 
